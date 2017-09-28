@@ -1,5 +1,5 @@
 {
-    "family": "launch-test-app",
+    "family": "bwce-jms-basic",
     "containerDefinitions": [
         {
             "image": "750037626691.dkr.ecr.ap-southeast-1.amazonaws.com/jms-basic:latest",
