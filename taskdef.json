@@ -2,7 +2,7 @@
     "family": "bwce-jms-basic",
     "containerDefinitions": [
         {
-            "image": "750037626691.dkr.ecr.us-east-1.amazonaws.com/jms-basic:latest",
+            "image": "516030589452.dkr.ecr.us-east-1.amazonaws.com/jms-basic:latest",
             "name": "bwce-jms-basic",
             "cpu": 10,
             "memory": 512,
